@@ -1,0 +1,43 @@
+input{
+    padding:5px;
+    margin:10px;
+    font-family:Bahnschrift SemiBold;
+}
+body{
+    text-align:center;
+    background-image: linear-gradient(to  right, #fcd34d, #ef4444, #ec4899);
+}
+body{
+  background-color:red;
+  padding:10px;
+  text-align:center;
+  font-family:Bahnschrift SemiBold;
+  color:aliceblue;
+  font-size:35px;
+}
+button{
+    margin: 10px;
+    background-color: #cf245f;
+    background-image: linear-gradient(to bottom right, #fcd34d, #ef4444, #ec4899);
+    border: 0;
+    border-radius: .25rem;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.125rem; /* 18px */
+    font-weight: 600;
+    line-height: 1.75rem; /* 28px */
+    padding: 1rem 1.25rem;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  button:hover {
+    box-shadow: none;
+    background-color: #2468cf;
+    background-image: linear-gradient(to bottom right, #fcd34d, #4cc798, #ec4899);
+  }
+
+ 
